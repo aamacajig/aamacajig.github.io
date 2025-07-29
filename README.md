@@ -1,1 +1,1 @@
-# aamacajig.github.io
+# aamacajig.github.io/week/acativity
