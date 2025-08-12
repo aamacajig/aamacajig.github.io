@@ -1,0 +1,95 @@
+ h1{
+    color:white;
+    text-align: right;
+     font-family : Arial,sans-sarif;
+}
+
+.par1 {
+    color:white;
+    font-family : Arial,sans-sarif;
+}
+
+.line1 {
+    color:red;
+     font-family : Arial,sans-sarif;
+}
+
+.line2 {
+    color:white;
+ font-family : Arial,sans-sarif;
+}
+
+.line3 {
+    color:violet;
+     font-family : Arial,sans-sarif;
+}
+
+.line4 {
+    color:white;
+     font-family : Arial,sans-sarif;
+}
+
+.line5 {
+    color:white;
+     font-family : Arial,sans-sarif;
+}
+.line6 {
+    color:red;
+     font-family : Arial,sans-sarif;
+}
+
+.par2{
+    color:white;
+     font-family : Arial,sans-sarif;
+}
+
+.span1{
+    color:red;
+}
+.head2{
+    color:red;
+    text-align: center;
+     font-family : Arial,sans-sarif;
+}
+.par3{
+    color:white;
+    font-family : Arial,sans-sarif;
+}
+.span2{
+    color:yellow;
+    font-family : Arial,sans-sarif;
+}
+.span3{
+    color:blue;
+    font-family : Arial,sans-sarif;
+}
+.span4{
+    color:green;
+    font-family : Arial,sans-sarif;
+}
+.head3{
+    color:white;
+    padding:20px;
+    font-family : Arial,sans-sarif;
+    border-top: 2px solid red;
+    border-left: 2px solid red;
+    background-color: black;
+    width: 25%;
+}
+.par4{
+    color:white;
+     font-family : Arial,sans-sarif;
+}
+.span5{
+    color:blue;
+     font-family : Arial,sans-sarif;
+}
+.span6{
+    color: red;
+    font-family : Arial,sans-sarif;
+}
+    body{
+       background-color: #16365d;
+
+
+}
